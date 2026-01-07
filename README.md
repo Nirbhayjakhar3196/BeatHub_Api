@@ -1,3 +1,4 @@
-Welcome to the backend of BeatHub.
+<!-- Welcome to the backend of BeatHub.
 - Status: Initial Setup
-- Developer: ["Nirbhay"]
+- Developer: ["Nirbhay"] -->
+hey !! My name is Nirbhay Jakhar
